@@ -1,0 +1,40 @@
+# Android Studio / Gradle
+.gradle/
+**/build/
+*.iml
+.idea/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.platformio/
+
+# KiCad temporary and backup files
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bak
+*.tmp
+*~
+_autosave-*
+
+# Python / Google Colab
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
