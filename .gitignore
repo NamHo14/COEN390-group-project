@@ -1,0 +1,48 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+*.iml
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.elf
+build/
+out/
+cmake-build-*/
+
+# ESP32 / PlatformIO / Arduino
+.pio/
+.pioenvs/
+.piolibdeps/
+.arduinoIDE/
+*.bin
+*.map
+
+# Python tools
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Mobile app (generic)
+node_modules/
+.gradle/
+**/build/
+android/.cxx/
+
+# Logs and temp
+*.log
+*.tmp
